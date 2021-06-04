@@ -62,6 +62,9 @@ module.exports = {
   /**
    * DOCUMENTACION:
    * 
+   * GENERACION DE ICONOS PARA PWA:
+   * https://github.com/jcalixte/vue-pwa-asset-generator
+   * 
    * SOBRE @MR-HOPE/VUEPRESS-PLUGIN-PWA (ES EL PLUGIN QUE FUNCIONA CON VUEPRESS):
    * https://vuepress-theme-hope.github.io/pwa/
    * 
