@@ -41,6 +41,7 @@ module.exports = {
           },
         },
       ],
+      '@vuepress/back-to-top', true
     ],
     themeConfig: {
         nav: [
@@ -64,6 +65,12 @@ module.exports = {
    * 
    * GENERACION DE ICONOS PARA PWA:
    * https://github.com/jcalixte/vue-pwa-asset-generator
+   * 
+   * PLUGIN BACK-TO-TOP BUTTON:
+   * https://v1.vuepress.vuejs.org/plugin/official/plugin-back-to-top.html
+   * https://github.com/vuejs/vuepress/issues/888
+   * https://www.npmjs.com/package/@vuepress/plugin-back-to-top
+   * https://vuepress.github.io/reference/plugin/back-to-top.html
    * 
    * SOBRE @MR-HOPE/VUEPRESS-PLUGIN-PWA (ES EL PLUGIN QUE FUNCIONA CON VUEPRESS):
    * https://vuepress-theme-hope.github.io/pwa/
